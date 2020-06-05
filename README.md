@@ -1,2 +1,2 @@
 # FBNRPS
-nrps sequence
+i am looking for some gaps in my sequences
