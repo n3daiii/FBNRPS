@@ -1,0 +1,2 @@
+# FBNRPS
+nrps sequence
